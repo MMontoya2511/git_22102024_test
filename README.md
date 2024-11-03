@@ -44,13 +44,4 @@ Pasos a seguir:
 10. Aquí se genera un mensaje de error y esto solo ocurre una vez, por ser la primera vez debemos colocar el siguiente comando:
    git push --set-upstream origin master
 
-11. Cualquier cambio en adelante solo seguiremos la secuencia:
-
-   git status
-
-   git add nombre_del_archivo(ejemplo.md)
-
-   git commit -m "Nombre de la actualización"
-
-   git push
 

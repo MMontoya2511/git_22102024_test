@@ -5,6 +5,7 @@ def saludo():
 
     print("SESION 2 DE GIT CAMBIOS REALIZADOS EN EL BRANCH - OJO EN EL BRANCH")
 
+    print("SESION 2 Ccambios en el repositorio remoto UPDATE")
 
 if __name__ == "__main__":
     saludo()
